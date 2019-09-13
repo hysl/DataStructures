@@ -4,8 +4,7 @@ July 27, 2019
 
 Question 1
 
-Generic Stack data structure
-Returns the smallest element
+Using stack, returns the smallest element
 */
 
 // stack class for int
